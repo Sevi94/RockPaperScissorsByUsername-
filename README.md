@@ -1,5 +1,4 @@
 # RockPaperScissorsByUsername-
-RockPaperScissors-
 import random
 
 rock = "Rock"
